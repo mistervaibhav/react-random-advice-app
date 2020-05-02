@@ -37,7 +37,7 @@ export class App extends Component {
       <div className='app'>
         <div className='card'>
           <h1 className='heading'> {advice} </h1>
-          <a className='button' href='/'>
+          <a className='button' href='https://mistervaibhav.github.io/react-random-advice-app'>
             Give me an advice
           </a>
         </div>
